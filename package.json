@@ -1,0 +1,21 @@
+{
+  "name": "openai-sample",
+  "version": "1.0.0",
+  "description": "Open AI API sample",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openai",
+    "chatgpt"
+  ],
+  "author": "Daniel Voaviarison",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
